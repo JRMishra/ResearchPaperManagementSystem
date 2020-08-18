@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ResearchPaperManagementSystem\bin\Debug\ResearchPaperManagementSystem.exe.config
+C:\Users\user\source\repos\ResearchPaperManagementSystem\bin\Debug\ResearchPaperManagementSystem.exe
+C:\Users\user\source\repos\ResearchPaperManagementSystem\bin\Debug\ResearchPaperManagementSystem.pdb
+C:\Users\user\source\repos\ResearchPaperManagementSystem\obj\Debug\ResearchPaperManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ResearchPaperManagementSystem\obj\Debug\ResearchPaperManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ResearchPaperManagementSystem\obj\Debug\ResearchPaperManagementSystem.exe
+C:\Users\user\source\repos\ResearchPaperManagementSystem\obj\Debug\ResearchPaperManagementSystem.pdb
